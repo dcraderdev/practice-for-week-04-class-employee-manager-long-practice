@@ -106,7 +106,6 @@ After:  Manager {
     }
   ]
 }
-```
 >__Note:__ _The `[Circular]` value you see attached to the `manager` key is just
 >a cleaner way of saying that the `manager` key points back to the `Manager` you
 >are currently looking at._
